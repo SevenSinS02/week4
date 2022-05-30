@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 ndarray = "0.15.0"
-# nalgebra = "0.31.0"
+nalgebra = "0.31.0"
 rand = "0.8.5"
 # ark-ff = "0.3.0"
 ark-bls12-381 = "0.3.0"
